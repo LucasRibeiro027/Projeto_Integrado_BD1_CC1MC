@@ -3,36 +3,36 @@
 
 # Projeto integrado banco de dados uvv 
 ***
-Esse repositório contém apenas a __parte de banco de dados__ do projeto integrado da uvv. 
+Repositório que contém o __banco de dados__ do projeto integrado da uvv. 
 
 Integrantes do grupo | Turma | Data de entrega |
 --- | --- | ---|
-Alexandre Blank Lopes , Daniela Labarca , Eduardo Godio , Gustavo teixeira | CC1Mc | 23/06/2023 
+ARTHUR MARTINS DO NASCIMENTO DE JESUS , ANNDREW VIEIRA HUGUINIM FERNANDES , LUCAS DE ARAUJO RIBEIRO | CC1Mc | 23/06/2023 
 
- O __projeto integrado__ é um projeto feito em conjunto com as disciplinas de *Experiencia de usuário* , *Desenvolvimento de banco de dados 1* e *Construção de Software Web*.
+ Esse Projeto é um projeto em conjunto das disciplinas de *Experiencia de usuário* , *Desenvolvimento de banco de dados 1* e *Construção de Software Web*.
 
 
  #### Entregas requisitadas:
 
- - [x] Projeto conceitual no brModelo
- - [x] Projeto lógico no SQL Power Architect, na 3ª forma normal (com desnormalização se necessário) 
- - [x] Script do PostgreSQL.
+* Projeto conceitual no brModelo
+* Projeto lógico no SQL Power Architect
+* Script do PostgreSQL
 
 
 
-## Projeto conceitual brModelo:
+## Projeto conceitual brModelo (Projeto_Integrado.brM3)
 
-Projeto conceitual feito no brModelo para o início da criação do banco de dados
-
-
-## Projeto lógico no SQL Power Architect 
-
-Projeto lógico no Power Architect logo após a criação do modelo conceitual , Banco de dados ja estruturado com comentarios e tabelas criadas 
+Projeto conceitual no brModelo como base para criação do projeto
 
 
-## Script do PostgresSQL 
+## Projeto lógico no SQL Power Architect (Projeto_Integrado.architect) 
 
-Script para a criação do Banco de dados já pronto 
+Projeto lógico no Power Architect, com tabelas e comentários prontos 
+
+
+## Script do PostgresSQL (Script_Projeto_Integrado.sql)
+
+Script para a criação do Banco de dados 
 
 
 
