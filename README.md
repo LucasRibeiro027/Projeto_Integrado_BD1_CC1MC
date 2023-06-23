@@ -1,7 +1,7 @@
 
 
 
-# Projeto integrado banco de dados uvv 
+# Projeto integrado Design e Desenvolvimento de Banco de Dados, Construção de Software para Web e Experiência e Interface com o Usuário 
 ***
 Repositório que contém o __banco de dados__ do projeto integrado da uvv. 
 
@@ -12,7 +12,7 @@ ARTHUR MARTINS DO NASCIMENTO DE JESUS , ANNDREW VIEIRA HUGUINIM FERNANDES , LUCA
  Esse Projeto é um projeto em conjunto das disciplinas de *Experiencia de usuário* , *Desenvolvimento de banco de dados 1* e *Construção de Software Web*.
 
 
- #### Entregas requisitadas:
+ #### Conteúdo:
 
 * Projeto conceitual no brModelo
 * Projeto lógico no SQL Power Architect
